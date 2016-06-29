@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ea6afae-a321-44a4-bf31-d9c9607fb273" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$$anonfun$main$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesOption$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesOption.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesTree$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/ExercisesTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/fpinscala/errorhandling/None$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/fpinscala/errorhandling/None.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/fpinscala/errorhandling/Option$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/fpinscala/errorhandling/Option.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/fpinscala/errorhandling/Some$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/fpinscala/errorhandling/Some.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/ExercisesList.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/ExercisesOption.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/example/ExercisesTree.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/Option.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$9.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$compose$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$compose$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$curry$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$curry$1$$anonfun$apply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$curry$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$curry$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$uncurry$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$$anonfun$uncurry$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/example/Exercises$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/example/Exercises.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/Exercises.scala" />
-    </list>
+    <list default="true" id="6ea6afae-a321-44a4-bf31-d9c9607fb273" name="Default" comment="" />
     <ignored path="TutorialScala.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
